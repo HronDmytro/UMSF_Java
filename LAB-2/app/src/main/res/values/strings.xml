@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="question_1">Столиця України  - Київ?</string>
+    <string name="question_2">Столиця Грузії Тбілісі?</string>
+    <string name="question_3">Столиця Казахстану Алмати?</string>
+    <string name="question_4">Столиця Бразилії Ріо-де-Жанейро?</string>
+    <string name="question_5">Столиця Азербайджану Баку?</string>
+    <string name="question_6">Столиця Чечні Мхачкала?</string>
+    <string name="button_true">Це правда</string>
+    <string name="button_false">Це брехня</string>
+    <string name="button_next">Наступний</string>
+    <string name="button_prev">Попередній</string>
+    <string name="toast_true">Ви відповіли правильно!</string>
+    <string name="toast_false">Ви відповіли неправильно!</string>>
+</resources>
